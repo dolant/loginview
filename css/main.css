@@ -31,7 +31,7 @@ a {
 
 .auth p {
     margin-top: .5rem;
-    margin-bottom: .5rem;
+    margin-bottom: .2rem;
     font-size: .9rem;
 }
 .auth-wrap h1 {
@@ -58,6 +58,10 @@ a {
     margin-bottom: .7rem;
     background-color: #04C35C;
     border-color: #04C35C;
+}
+
+.auth-email {
+    margin-bottom: 1rem;
 }
 
 .auth-google .google {

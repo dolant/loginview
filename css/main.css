@@ -22,7 +22,12 @@ a {
 }
 
 .auth-section {
+    flex-direction: column;
+}
+
+.auth-section {
     margin: auto;
+    margin-top: 13rem;
 }
 
 .auth-wrap {
@@ -80,4 +85,10 @@ a {
     font-size: .95rem;
     display: flex;
     justify-content: space-between;
+}
+
+.account {
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 16rem;
 }
